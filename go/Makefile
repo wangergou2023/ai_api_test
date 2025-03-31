@@ -2,6 +2,7 @@
 # APP_NAME = input_image_chat
 # APP_NAME = tts
 # APP_NAME = stt
+# APP_NAME = structured_outputs
 
 API_KEY = sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 BASE_URL = https://llxspace.shop/v1
